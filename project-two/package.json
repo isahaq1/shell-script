@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "user",
+  "version": "1.0.0",
+    "type": "module",
+  "description": "sh script for ubuntu terminal",
+  "main": "server/app.js",
+  "devDependencies": {},
+  "scripts": {
+   "start": "npm server/app.js",
+    "dev": "nodemon server/app.js"
+  },
+  "author": "isahaq",
+  "license": "MIT"
+}
