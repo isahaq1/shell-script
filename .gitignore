@@ -1,4 +1,7 @@
-/node_modules
+/project-one/node_modules
+/project-two/node_modules
+/project-three/node_modules
+/project-four/node_modules
 npm-debug.log
 yarn-error.log
 
